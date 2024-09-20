@@ -1,3 +1,6 @@
-# invrt
+#include <stdio.h>
 
-ejehehej
+int main() {
+    printf("Hello, World!\n");
+        return 0;
+    }
